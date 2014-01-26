@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">俺アプリ</string>
+    <string name="edit_message">メッセージを入れてください</string>
+    <string name="button_send">送る</string>
+    <string name="action_settings">設定</string>
+    <string name="title_activity_main">めいん</string>
+    <string name="title_activity_display_message">メッセージ</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_search">探す</string>
+    
+</resources>
